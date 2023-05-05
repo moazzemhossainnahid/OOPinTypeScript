@@ -1,6 +1,6 @@
 class Animal {
-    public name: string,
-    public species: string,
+    public name: string;
+    public species: string;
     public sound: string
     // parameter properties
     constructor(name: string, species: string, sound: string) {
